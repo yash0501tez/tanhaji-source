@@ -1,0 +1,62 @@
+{
+    "date": "2023-02-13T11:01:37.519Z",
+    "name": "SWORD",
+    "tags": [
+        "Horizontal",
+        "2:3",
+        "Rectangle",
+        "4K",
+        "Color",
+        "Photogram",
+        "LightSteelBlue",
+        "Element",
+        "Pink",
+        "Photography",
+        "Air",
+        "Scanner",
+        "Thistle"
+    ],
+    "symbol": "SWORD",
+    "formats": [
+        {
+            "uri": "ipfs://QmUHmsE4jjN87giyWdz2ZtfRzqhySjAAkNviD8SSXFMKad",
+            "fileName": "SWORD.jpeg",
+            "fileSize": "2382032",
+            "mimeType": "image/jpeg",
+            "dimensions": {
+                "unit": "px",
+                "value": "4096x2731"
+            }
+        },
+        {
+            "uri": "ipfs://QmUgarJtBJbZJ2GdpZmkdYr7jsB3Bi7AvivnvjQkxUyPov",
+            "fileName": "cover_Four_Elements-Air_26.jpg",
+            "fileSize": "84016",
+            "mimeType": "image/jpeg",
+            "dimensions": {
+                "unit": "px",
+                "value": "1024x682"
+            }
+        },
+        {
+            "uri": "ipfs://QmddchiYMQGZYLZf86jhyhkxRqrGfpBNr53b4oiV76q6aq",
+            "fileName": "thumbnail_Four_Elements-Air_26.jpg",
+            "mimeType": "image/jpeg",
+            "dimensions": {
+                "unit": "px",
+                "value": "350x233"
+            }
+        }
+    ],
+    "creators": [
+        "tz1bE95kEP9PvEKKLBovDsojUxaziTmBaAEy"
+    ],
+    "decimals": 0,
+    "displayUri": "ipfs://QmUgarJtBJbZJ2GdpZmkdYr7jsB3Bi7AvivnvjQkxUyPov",
+    "artifactUri": "ipfs://QmUHmsE4jjN87giyWdz2ZtfRzqhySjAAkNviD8SSXFMKad",
+    "description": "Digital photogram made by contact on the surface of a household scanner. The shooting device, a recovering scanner, is modified to become a device for capturing reality allowing the photogram technique, traditionally analog, to enter the field of digital. The concept of elements, present in many cultures and civilizations, aims to describe the sensitive world around us, to better understand it. This set of photographs introduces symbolic elements of the real world into the virtual world to reduce the frontiers that separate them. Thus, this parallel brings these two spaces closer together, allowing them to dialogue and cohabit. The “Four Elements” photograms corpus consists of 4 series representing fire, water, air and earth.",
+    "mintingTool": "Tanhaji",
+    "thumbnailUri": "ipfs://QmddchiYMQGZYLZf86jhyhkxRqrGfpBNr53b4oiV76q6aq",
+    "isBooleanAmount": false,
+    "shouldPreferSymbol": false
+}
